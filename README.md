@@ -1,2 +1,2 @@
 # hello-world
-a short introduction to the planet
+A brief introduction to the planet
